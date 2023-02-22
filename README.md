@@ -4,4 +4,4 @@
 - Para o processo de ETL foi utilizado a linguagem M e para a criação dos indicadores linguagem DAX.
 - Background foi criado utilizando o Figma.
 
-![image](https://user-images.githubusercontent.com/126030119/220490796-245f3c7b-908b-492c-9577-331af356bd27.png)
+![image](https://user-images.githubusercontent.com/126030119/220493198-54ac5344-80cb-408b-83ab-74b76127ba41.png)
